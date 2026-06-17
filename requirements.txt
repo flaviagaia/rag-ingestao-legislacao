@@ -1,0 +1,2 @@
+pytest>=8.0
+# parser e fetch usam só a stdlib; sem dependências externas
