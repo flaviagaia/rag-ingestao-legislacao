@@ -1,0 +1,25 @@
+LEI Nº 13.709, DE 14 DE AGOSTO DE 2018.
+
+Lei Geral de Proteção de Dados Pessoais (LGPD).
+
+Art. 1º Esta Lei dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado.
+
+Art. 6º As atividades de tratamento de dados pessoais deverão observar a boa-fé e os seguintes princípios:
+I - finalidade: realização do tratamento para propósitos legítimos, específicos, explícitos e informados ao titular;
+II - adequação: compatibilidade do tratamento com as finalidades informadas ao titular;
+III - necessidade: limitação do tratamento ao mínimo necessário para a realização de suas finalidades.
+
+Art. 7º O tratamento de dados pessoais somente poderá ser realizado nas seguintes hipóteses:
+I - mediante o fornecimento de consentimento pelo titular;
+II - para o cumprimento de obrigação legal ou regulatória pelo controlador;
+III - quando necessário para a execução de contrato do qual seja parte o titular.
+§ 1º Nos casos de aplicação do disposto nos incisos II e III, o titular será informado das hipóteses de tratamento de seus dados. (Revogado pela Lei nº 13.853, de 2019)
+§ 2º A forma de disponibilização das informações poderá ser especificada pela autoridade nacional.
+
+Art. 11. O tratamento de dados pessoais sensíveis somente poderá ocorrer nas seguintes hipóteses:
+I - quando o titular consentir, de forma específica e destacada, para finalidades específicas;
+II - sem fornecimento de consentimento do titular, nas hipóteses em que for indispensável para:
+a) cumprimento de obrigação legal ou regulatória pelo controlador;
+b) tratamento compartilhado de dados necessários à execução de políticas públicas.
+
+Art. 65. Esta Lei entra em vigor após decorridos 24 meses de sua publicação oficial.
